@@ -1,0 +1,16 @@
+<root>
+
+<secrets ver="1.0">
+
+<secret name="key" value="C:\Users\filza\.ssh\myKey" />
+<secret name="remoteHost" value="192.168.80.11" />
+<secret name="username" value="ttshvm1" />
+
+<secret name="robotName" value="RHB" />
+<secret name="localFilePath1" value="C:\Users\filza\Documents" />
+<secret name="localFilePath2" value="C:\Users\filza\Study" />
+<secret name="remoteFilePath" value="/home/ttshvm1/Desktop" />
+
+</secrets>
+
+</root>
